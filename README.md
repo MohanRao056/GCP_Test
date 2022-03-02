@@ -42,7 +42,7 @@ NOTE: Parallelism is implemented only for sql script present in tmp folder
 
 I have some credit card issue because of which I was not able enable the $300 credit from GCP. So I was not able to deploy the API on app engine/Cloud function. But I have tested the code in my local
 
-#To run the FLASK code in locall, Follow the below steps
+#To run the FLASK code in local, Follow the below steps
 
  1.  python3 main.py
  
